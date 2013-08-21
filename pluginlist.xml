@@ -1,4 +1,0 @@
-<plugins>
-<plugin>https://raw.github.com/wf4ever/astrotaverna/gh-pages/astrotaverna-plugin-1.08.xml</plugin>
-<plugin>http://vamdc.mssl.ucl.ac.uk/taverna/vamdc/plugins/vamdc-taverna-suite-2.4.0.xml</plugin>
-</plugins>
