@@ -1,0 +1,2 @@
+TavernaAstronomyPluginCollection
+================================
